@@ -10,5 +10,5 @@ This repository contains my learnings and projects related to PyTorch, a popular
 - Custom model development
 - Applying optimization techniques and backpropagation
 - Exploring advanced topics like CNNs, RNNs, and transfer learning
-- 
+  
 This repo serves as a personal learning journey through PyTorch and deep learning. Feel free to explore and contribute!
