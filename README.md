@@ -2,7 +2,7 @@
 
 ![pytorch](https://github.com/user-attachments/assets/200f1a29-a001-40fa-9863-79bae2a854e5)
 
-This repository contains my learnings and projects related to PyTorch, a popular deep learning framework. Here, you'll find various notebooks, scripts, and examples demonstrating key concepts in deep learning using PyTorch Such as: 
+This repository contains my learnings and projects related to PyTorch, a popular deep learning framework. Here, you'll find various notebooks, scripts, and examples demonstrating key concepts in deep learning using PyTorch 
 
 - Building and training neural networks
 - Implementing different types of layers and loss functions
