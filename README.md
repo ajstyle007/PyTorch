@@ -6,7 +6,7 @@ This repository contains my learnings and projects related to PyTorch, a popular
 
 - Building and training neural networks
 - Implementing different types of layers and loss functions
-- Handling data using torch.utils.data for datasets and data loaders
+- Handling data using torch.utils.data for datasets and 
 - Custom model development
 - Applying optimization techniques and backpropagation
 - Exploring advanced topics like CNNs, RNNs, and transfer learning
