@@ -5,7 +5,7 @@
 This repository contains my learnings and projects related to PyTorch, a popular deep learning framework. Here, you'll find various notebooks, scripts, and examples demonstrating key concepts in deep learning using PyTorch Such as:
 
 - Building and training neural networks
-- Implementing different types of layers and 
+- Implementing different types of layers and loss functions
 - Handling data using torch.utils.data for datasets and data loaders
 - Custom model development
 - Applying optimization techniques and backpropagation
